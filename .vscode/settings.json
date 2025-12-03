@@ -1,0 +1,46 @@
+{
+  "code-runner.runInTerminal": true,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.fontSize": 13,
+  "leetcode.workspaceFolder": "n:\\leetcodeproblems",
+  "leetcode.defaultLanguage": "cpp",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.editor.empty.hint": "hidden",
+  "vsicons.dontShowNewVersionMessage": true,
+  "emmet.triggerExpansionOnTab": true,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "remote.SSH.remotePlatform": {
+    "sandbox.mmf63x.csb": "linux"
+  },
+
+  // ✅ Inline AI Suggestions
+  "editor.inlineSuggest.enabled": true,
+  "editor.inlineSuggest.showToolbar": "always",
+  "editor.suggest.preview": true,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.suggestSelection": "first",
+  "editor.parameterHints.enabled": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+
+  // ✅ Tabnine Configuration
+  "tabnine.experimentalAutoImports": true,
+  "tabnine.inlineSuggest.enabled": true,
+  "tabnine.showInlineCompletions": true,
+  "tabnine.debounceMilliseconds": 100,
+  "tabnine.enableCloud": true,
+  "tabnine.network.connectivityMode": "cloud",
+
+  // ✅ Optional (for Copilot hybrid users)
+  "github.copilot.enable": {
+    "*": true
+  },
+
+  "mdb.mcp.server": "prompt",
+  "explorer.confirmDelete": false
+}
