@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-12-03 at 11 04 59_279b3be1](https://github.com/user-attachments/assets/7d41a897-2af1-4ff2-b639-4fb433b37eca)
 # Traffic-Congestion-Prediction-Model-using-Random-Forest
 
 Machine Learning model using Random Forest to predict traffic volume and classify congestion levels (Low/Medium/High).
@@ -7,4 +6,11 @@ Machine Learning model using Random Forest to predict traffic volume and classif
 - Features: hour, weekday, weather, lag features, rolling mean, holiday flag
 - Model: RandomForestRegressor
 - Evaluation: MAE, RMSE, R², confusion matrix, accuracy
+
+
+//Output Images of the Model
+- [Actual vs Predicted Traffic]->(https://github.com/user-attachments/assets/7d41a897-2af1-4ff2-b639-4fb433b37eca)
+- [Classification Report including Accuray + Confusion Matrix ]->(https://github.com/user-attachments/assets/078a5b01-4c75-42ec-a970-cc6c2e5229b2)
+
+- 
 
