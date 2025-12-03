@@ -1,7 +1,4 @@
-# ==========================================
-# Traffic Congestion Prediction
-# Random Forest (Snow Feature Removed)
-# ==========================================
+
 
 # 0. Imports
 import pandas as pd
